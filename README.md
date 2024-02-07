@@ -1,4 +1,8 @@
-
+Homework A02
+<br><br>
+**Installing Git**<br>
+Step 1- Click the link in canvas, which takes you to the git installer. <br>
+Step 2-
 
 **Branch** - A separate version of the same code base, so multile programers can work on the same code at the same time. <br>
 **Clone** - Creating an exact replica of your code that you can mess around with and edit freely.
